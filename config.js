@@ -1,16 +1,16 @@
 var config = {
-    // database: {
-    //     host: 'us-cdbr-iron-east-05.cleardb.net', 	// database host
-    //     user: 'b737688e0241c0', 		// your database username
-    //     password: '5b7b158d', 		// database password
-    //     db: 'heroku_32d4a49c0714ef0' 		// your database name
-    // },
     database: {
-        host: 'localhost', 	// database host
-        user: 'root', 		// your database username
-        password: 'voldemort', 		// database password
-        db: 'sch_mngr' 		// your database name
+        host: 'ec2-54-80-122-11.compute-1.amazonaws.com', 	// database host
+        user: 'lgjosuktjsjvng', 		// your database username
+        password: 'bfa6475ddeaa49d726b66897e83d02aae4be30f45d22732fc80a680ee0f1c844', 		// database password
+        db: 'd7816v8v7j7d5t' 		// your database name
     },
+    // database: {
+    //     host: 'localhost', 	// database host
+    //     user: 'root', 		// your database username
+    //     password: 'voldemort', 		// database password
+    //     db: 'sch_mngr' 		// your database name
+    // },
     server: {
         host: 'localhost',
         port: '5000'
