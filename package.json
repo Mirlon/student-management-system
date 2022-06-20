@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node app",
-    "heroku-postbuild": "node demo_create_table.js"
+    "start": "node app"
   },
   "description": "School Manager",
   "author": {
